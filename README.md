@@ -3,7 +3,7 @@
 **MySQL**
 
 - [SQL 常用脚本大全](https://mp.weixin.qq.com/s/1pZmbDcK6aL8Ho9jtD4GSw)
-- [图解mysql](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxODAzNDg4NQ==&action=getalbum&album_id=1955634887135199237&scene=173&from_msgid=2247522791&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+- [图解MySQL](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxODAzNDg4NQ==&action=getalbum&album_id=1955634887135199237&scene=173&from_msgid=2247522791&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 - [常见SQL知识点总结](https://mp.weixin.qq.com/s/0b32pXVOiQt85EtI0Up15w)
 - [SQL优化 20 连击](https://mp.weixin.qq.com/s/GyZpm-8g4A1KagEzSFMv_g)
 - [SQL优化这5个极简法则](https://mp.weixin.qq.com/s/KPut6MYJaog5_9Zl1fSvnA)
