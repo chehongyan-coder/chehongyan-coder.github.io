@@ -31,6 +31,7 @@
   - [**Unsplash图片素材库**](https://unsplash.com)
   - [**Pexels图片素材库**](http://www.pexels.com)
   - [**MD 转 DOCX**](https://cloudconvert.com/md-to-docx)
+  - [**在线简历**](https://www.qmjianli.com/?s=360_oH&qhclickid=2dd6af81a7cac796)
 - 在线教程
   - [**菜鸟教程**](https://www.runoob.com/)
   - [**易百教程™**](https://www.yiibai.com/)
@@ -41,6 +42,7 @@
   - [**Baeldung**](https://www.baeldung.com/)
   - [**树懒学堂**](https://www.shulanxt.com/)
   - [**BEGTUT.COM**](https://www.begtut.com/)
+  - [**破解教程**](https://www.exception.site/)
 - 划水必备
   - [**哔哩哔哩**](https://www.bilibili.com/)
   - [**多摸鱼-全网热榜**](https://duomoyu.com/)
